@@ -55,6 +55,14 @@ Europe Sales Records dataset containing:
 * Offline and Online channels contributed similar revenue.
 * Revenue and Profit show a strong positive relationship across countries.
 
+## Live Dashboard
+
+View the interactive dashboard on Tableau Public:
+
+[Click Here to View Dashboard](https://public.tableau.com/app/profile/nithujana.mahenthiranathan/viz/EUROPESALESPERFORMANCEDASHBOARD/Dashboard1)
+
+
+
 ## Author
 
 Nithujana Mahenthiranathan
