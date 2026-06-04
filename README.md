@@ -1,4 +1,4 @@
-# Europe Sales Performance Dashboard
+# Europe Sales Performance Dashboard | Tableau
 
 ![Dashboard](Dashboard%201%20\(2\).png)
 
@@ -21,6 +21,28 @@ This project presents an interactive Tableau dashboard analyzing sales performan
 * Sales by Channel
 * Revenue vs Profit by Country
 
+## Dataset
+
+Europe Sales Records dataset containing:
+- Country
+- Region
+- Sales Channel
+- Item Type
+- Revenue
+- Cost
+- Profit
+- Units Sold
+
+## Skills Demonstrated
+
+- Data Visualization
+- Dashboard Design
+- KPI Reporting
+- Sales Analytics
+- Business Intelligence
+- Tableau
+
+  
 ## Tools Used
 
 * Tableau Public
