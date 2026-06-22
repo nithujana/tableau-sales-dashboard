@@ -1,5 +1,10 @@
 # Europe Sales Performance Dashboard | Tableau
 
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) 
+
+
 ![Dashboard](Dashboard%201%20\(2\).png)
 
 ## Overview
